@@ -29,7 +29,7 @@ except Exception as e:
     st.error(f"Database Connection Error: {e}")
     st.stop()
 
-st.set_page_config(page_title="Local AI Chat Pro", layout="wide")
+st.set_page_config(page_title="Local AI Chat", layout="wide")
 
 # --- SESSION STATE MANAGEMENT ---
 if "session_id" not in st.session_state:

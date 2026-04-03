@@ -1,6 +1,6 @@
-# Local AI Chat Pro
+# Local AI Chat
 
-Local AI Chat Pro is a Python-based web application that allows you to chat with locally hosted AI models. Built with Streamlit for the frontend, it uses Ollama to run local LLMs and MongoDB to store and manage your chat history.
+Local AI Chat is a Python-based web application that allows you to chat with locally hosted AI models. Built with Streamlit for the frontend, it uses Ollama to run local LLMs and MongoDB to store and manage your chat history.
 
 ## Features
 
