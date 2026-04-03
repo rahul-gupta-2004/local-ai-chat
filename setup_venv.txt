@@ -1,0 +1,7 @@
+python3 -m venv chat_llm_venv
+
+source chat_llm_venv/bin/activate
+
+pip install ...
+
+deactivate
